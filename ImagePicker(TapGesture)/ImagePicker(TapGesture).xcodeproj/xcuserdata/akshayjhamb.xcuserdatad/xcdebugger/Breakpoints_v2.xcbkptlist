@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagePicker(TapGesture)/ViewController.swift"
+            timestampString = "572087547.550197"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagePicker_TapGesture_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ImagePicker_TapGesture_.ViewController"
+                  moduleName = "ImagePicker(TapGesture)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayjhamb/Desktop/Ios%20Practice/ImagePicker(TapGesture)/ImagePicker(TapGesture)/ViewController.swift"
+                  timestampString = "572086422.829507"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagePicker_TapGesture_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ImagePicker_TapGesture_.ViewController&gt;"
+                  moduleName = "ImagePicker(TapGesture)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayjhamb/Desktop/Ios%20Practice/ImagePicker(TapGesture)/ImagePicker(TapGesture)/ViewController.swift"
+                  timestampString = "572086422.832918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
