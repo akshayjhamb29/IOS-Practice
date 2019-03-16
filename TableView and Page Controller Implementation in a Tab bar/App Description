@@ -1,0 +1,10 @@
+ Tab Bar Contains 3 view Controller
+- 1 VC - contains Two section where 
+	section one contains name of person and option to select image from Gallery by tapping on it implemented through using Tap Gesture
+
+Section 2 contains two textFields name and Date along with that an add entry button. User can’t add a new row in tableView until the new row’s both entries are not filled. Also the user can edit those previous entries and are save accordingly
+
+
+-2 VC implemented using pageController. It should show the 1 Vc section two entries displayed on it.
+
+-3 VC displays the name and image of section 1  of VC-1
